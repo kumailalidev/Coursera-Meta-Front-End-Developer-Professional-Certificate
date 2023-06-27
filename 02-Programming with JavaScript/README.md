@@ -1,0 +1,1 @@
+# **Course 02. Introduction to JavaScript**
